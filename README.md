@@ -1,2 +1,0 @@
-# LeetCode
-algorithm programs
